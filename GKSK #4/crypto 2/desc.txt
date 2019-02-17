@@ -1,0 +1,5 @@
+Someone send me WannaPIE and accidentally run the script and encrypted all my data. Now i can't recover my home files but luckly i have stat.info of the encrypted files, and i think it would be usefull for you as an cyber security researcher.
+
+WARNING!
+Don't run the script unless you have analyzing it and if you do, be carefull of using it. WannaPIE will encrypt your /home data recursively. If you don't want any harm activity, leave it there and try another challanges. We're not responible for any loss of data. Thankyou :) 
+
