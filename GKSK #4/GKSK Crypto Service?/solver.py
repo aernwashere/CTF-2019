@@ -22,6 +22,9 @@ while True:
     for i in range(len(ciphertext[:-1])):
         flag += chr((ord(ciphertext[i]) ^ shift) - ord(shifted_alphabet[i]))
 
-    print flag
     if pattern in flag:
+        print flag
         break
+
+
+

@@ -12,13 +12,15 @@ nflag = []
 for i in flag:
     nflag.append(eval(i))
 newf = [chr(x) for x in nflag]
-print newf
 
 pat = "GKSK"
-key = [57,52,54,55]
+key = ['9','4','6','7']
+nkey = []
+for x in key:
+    nkey.append(ord(x))
+
 ff = ''
 for i in range(len(nflag)):
-    ff += chr((nflag[i] + key[i%4])%256)
+    ff += chr((nflag[i] + nkey[i%4])%256)
 
-print nflag
 print ff

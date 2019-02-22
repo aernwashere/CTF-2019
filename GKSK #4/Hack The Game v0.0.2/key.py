@@ -1,7 +1,8 @@
-import string
 "nc 180.250.7.183 20202"
-from base64 import *
 key = "GKSK{4re_Y0u_53ri0usly_checking_f0r_b3t4_t3sT?}"
+import string
+from base64 import *
+
 code = "PlayerLevel=1;PlayerExp=1;PlayerHP=100;PlayerAtk=987654321;PlayerDef=987654321;PlayerName=ar"
 enhace =  b64encode(code)
 
@@ -17,5 +18,5 @@ for i in enhace:
         reveal += i.upper()
     else:
         reveal += i
-#print b64decode(reveal)
+
 print reveal
