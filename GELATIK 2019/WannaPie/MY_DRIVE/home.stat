@@ -1,0 +1,64 @@
+  File: 1426487872207_DSC_0165-color_large.jpeg
+  Size: 205680    	Blocks: 408        IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870869     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.029780897 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.449780910 +0800
+ Birth: -
+  File: base14.png
+  Size: 43568     	Blocks: 88         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870871     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.049780896 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.449780910 +0800
+ Birth: -
+  File: base16.png
+  Size: 43568     	Blocks: 88         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870868     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.019780897 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.439780910 +0800
+ Birth: -
+  File: base.png
+  Size: 31104     	Blocks: 64         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870875     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.109780895 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.449780910 +0800
+ Birth: -
+  File: cookies.png
+  Size: 2928      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870872     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.059780896 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.449780910 +0800
+ Birth: -
+  File: favicon.png
+  Size: 414032    	Blocks: 816        IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870873     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.069780896 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.449780910 +0800
+ Birth: -
+  File: flag?.pdf
+  Size: 192448    	Blocks: 376        IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870874     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.079780896 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.449780910 +0800
+ Birth: -
+  File: picture
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 804h/2052d	Inode: 7870866     Links: 3
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.919780877 +0800
+Modify: 2019-03-15 17:01:15.000000000 +0800
+Change: 2019-03-15 17:08:03.459780910 +0800
+ Birth: -

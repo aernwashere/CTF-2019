@@ -1,0 +1,32 @@
+  File: base4.png
+  Size: 43568     	Blocks: 88         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870883     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.199780893 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.459780910 +0800
+ Birth: -
+  File: base6.png
+  Size: 2928      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870884     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.209780893 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.459780910 +0800
+ Birth: -
+  File: cookies.png
+  Size: 2928      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870881     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.169780894 +0800
+Modify: 2019-02-17 13:46:38.000000000 +0800
+Change: 2019-03-15 17:08:03.459780910 +0800
+ Birth: -
+  File: exam.pdf
+  Size: 7806      	Blocks: 16         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 7870882     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ ano21lx)   Gid: (  985/   users)
+Access: 2019-03-15 17:08:04.189780893 +0800
+Modify: 2019-03-15 16:59:06.000000000 +0800
+Change: 2019-03-15 17:08:03.459780910 +0800
+ Birth: -
